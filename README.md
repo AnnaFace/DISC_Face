@@ -3,7 +3,9 @@ Xiaoqin Xie, Xiping He, Yi Li, Xuyuan Liu, Xuan Cui, Dan He, Ting Xiong
 ## Code is coming soon!
 ## 📌 Abstract
 Face image editing has witnessed remarkable progress in terms of generation quality and diversity. However, existing methods often struggle to preserve identity and facial
+<p style="text-align: justify;">
 structure consistency during attribute editing. To address these challenges, we propose DISC-Face, a text-guided face attribute editing approach based on the Stable Diffusion model. Our DISC-Unet architecture, enhanced with an Identity-Text-conditioned Cross-Attention Mechanism (IT-CAM) at each layer, effectively integrates identity features with text descriptions. By imposing an identity loss function at each denoising step, we strengthen identity preservation. Additionally, the Patch Noise Contrastive Estimation(PNCE) loss, derived from IT-CAM’s attention maps, ensures facial structure consistency.The Identity-Differentiated Denoising Score (IDDS) loss, applied to the noise prediction of DISC-Unet, further guarantees identity preservation and facial structure consistency during text-guided face attribute editing. Experimental results on the CelebA-HQ and FFHQ datasets demonstrate that DISC-Face achieves improvements of approximately 25%, 30%,and 40% in identity preservation, structural similarity, and generation quality, respectively,while reducing local detail perceptual differences by nearly 50%. Furthermore, it exhibits superior overall visual naturalness while maintaining comparable text-image alignment.Our method offers a novel approach to face attribute editing, with potential applications in visual effects, privacy protection, and other domains.
+</p>
 Keywords: Text-Guided Face Editing, Identity Preservation, Facial Structure Consistency, Stable Diffusion
 
 
