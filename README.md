@@ -35,6 +35,7 @@ DISC-FACE.</figcaption>
     <img src="assets/PNCE.jpg" alt="Teaser Image">
     <figcaption>Fig. 5. PNCE Loss Calculation Process.</figcaption>
 </figure>
+
 ## 🚀 Environment Setup
 
 ### Clone this repository
