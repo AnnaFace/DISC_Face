@@ -9,7 +9,7 @@ structure consistency during attribute editing. To address these challenges, we 
 Keywords: Text-Guided Face Editing, Identity Preservation, Facial Structure Consistency, Stable Diffusion
 
 
-<figure style="marigin-top: 10px;">
+<figure>
     <img src="assets/home.png" alt="Teaser Image">
     <figcaption>Fig. 1. Our Results. Disc-Face satisfies challenging text description that include diverse attribute
 conditions while preserving the identity and facial structure consistency of the input face.</figcaption>
