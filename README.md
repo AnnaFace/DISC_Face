@@ -16,14 +16,7 @@ conditions while preserving the identity and facial structure consistency of the
 </figure>
 
 ## OverView
-<style>
-    figcaption {
-        text-align: center;
-    }
-    figure {
-        margin-bottom: 20px; /* 调整图与图之间的距离，可根据需求修改 */
-    }
-</style>
+
 
 <figure>
     <img src="assets/DISC_Face.jpg" alt="Teaser Image">
