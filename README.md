@@ -1,4 +1,4 @@
-# Identity Preservation and Facial Structure Consistency in Text-Guided Face Editing
+# Identity Preservation and Facial Structure Consistency in Text-Guided Face Editing via Diffusion Models
 Xiaoqin Xie, Xiping He, Yi Li, Xuyuan Liu, Xuan Cui, Dan He, Ting Xiong
 ## Code is coming soon!
 ## 📌 Abstract
