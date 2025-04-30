@@ -1,4 +1,4 @@
-# Enhancing Identity Preservation and Facial Structure Consistency in Text-Guided Face Editing(The Visual Computer 2025)
+# Enhancing Identity Preservation and Facial Structure Consistency in Text-Guided Face Editing
 Xiaoqin Xie, Xiping He, Yi Li, Xuyuan Liu, Xuan Cui, Dan He, Ting Xiong
 ## Code is coming soon!
 ## 📌 Abstract
