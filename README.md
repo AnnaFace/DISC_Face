@@ -1,4 +1,4 @@
-# Enhancing Identity Preservation and Facial Structure Consistency in Text-Guided Face Editing
+# Identity Preservation and Facial Structure Consistency in Text-Guided Face Editing
 Xiaoqin Xie, Xiping He, Yi Li, Xuyuan Liu, Xuan Cui, Dan He, Ting Xiong
 ## Code is coming soon!
 ## 📌 Abstract
@@ -35,7 +35,7 @@ DISC-FACE.</figcaption>
 </figure>
 
 <figure>
-    <img src="assets/PNCE.jpg" alt="Teaser Image">
+    <img src="assets/PNCE.jpg" alt="Teaser Image" width="80%" height="80%">
     <figcaption>Fig. 5. PNCE Loss Calculation Process.</figcaption>
 </figure>
 
