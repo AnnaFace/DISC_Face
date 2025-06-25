@@ -1,9 +1,19 @@
+<<<<<<< HEAD
 # Enhancing Identity Preservation and Facial Structure Consistency in Text-Guided Face Editing(The Visual Computer 2025)
+=======
+# Identity Preservation and Facial Structure Consistency in Text-Guided Face Editing via Diffusion Models
+>>>>>>> f9d85f76cd85ab607a78a486081f21646247d591
 Xiaoqin Xie, Xiping He, Yi Li, Xuyuan Liu, Xuan Cui, Dan He, Ting Xiong
 ## Code is coming soon!
 ## 📌 Abstract
 Face image editing has witnessed remarkable progress in terms of generation quality and diversity. However, existing methods often struggle to preserve identity and facial
+<<<<<<< HEAD
 structure consistency during attribute editing. To address these challenges, we propose DISC-Face, a text-guided face attribute editing approach based on the Stable Diffusion model. Our DISC-Unet architecture, enhanced with an Identity-Text-conditioned Cross-Attention Mechanism (IT-CAM) at each layer, effectively integrates identity features with text descriptions. By imposing an identity loss function at each denoising step, we strengthen identity preservation. Additionally, the Patch Noise Contrastive Estimation(PNCE) loss, derived from IT-CAM’s attention maps, ensures facial structure consistency.The Identity-Differentiated Denoising Score (IDDS) loss, applied to the noise prediction of DISC-Unet, further guarantees identity preservation and facial structure consistency during text-guided face attribute editing. Experimental results on the CelebA-HQ and FFHQ datasets demonstrate that DISC-Face achieves improvements of approximately 25%, 30%,and 40% in identity preservation, structural similarity, and generation quality, respectively,while reducing local detail perceptual differences by nearly 50%. Furthermore, it exhibits superior overall visual naturalness while maintaining comparable text-image alignment.Our method offers a novel approach to face attribute editing, with potential applications in visual effects, privacy protection, and other domains.
+=======
+<p style="text-align: justify;">
+structure consistency during attribute editing. To address these challenges, we propose DISC-Face, a text-guided face attribute editing approach based on the Stable Diffusion model. Our DISC-Unet architecture, enhanced with an Identity-Text-conditioned Cross-Attention Mechanism (IT-CAM) at each layer, effectively integrates identity features with text descriptions. By imposing an identity loss function at each denoising step, we strengthen identity preservation. Additionally, the Patch Noise Contrastive Estimation(PNCE) loss, derived from IT-CAM’s attention maps, ensures facial structure consistency.The Identity-Differentiated Denoising Score (IDDS) loss, applied to the noise prediction of DISC-Unet, further guarantees identity preservation and facial structure consistency during text-guided face attribute editing. Experimental results on the CelebA-HQ and FFHQ datasets demonstrate that DISC-Face achieves improvements of approximately 25%, 30%,and 40% in identity preservation, structural similarity, and generation quality, respectively,while reducing local detail perceptual differences by nearly 50%. Furthermore, it exhibits superior overall visual naturalness while maintaining comparable text-image alignment.Our method offers a novel approach to face attribute editing, with potential applications in visual effects, privacy protection, and other domains.
+</p>
+>>>>>>> f9d85f76cd85ab607a78a486081f21646247d591
 Keywords: Text-Guided Face Editing, Identity Preservation, Facial Structure Consistency, Stable Diffusion
 
 
@@ -15,6 +25,10 @@ conditions while preserving the identity and facial structure consistency of the
 
 ## OverView
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> f9d85f76cd85ab607a78a486081f21646247d591
 <figure>
     <img src="assets/DISC_Face.jpg" alt="Teaser Image">
     <figcaption>Fig. 2. Overview of Identity-Preserving and Structure-Consistent Text-Guided Face Editing via
@@ -32,9 +46,16 @@ DISC-FACE.</figcaption>
 </figure>
 
 <figure>
+<<<<<<< HEAD
     <img src="assets/PNCE.jpg" alt="Teaser Image">
     <figcaption>Fig. 5. PNCE Loss Calculation Process.</figcaption>
 </figure>
+=======
+    <img src="assets/PNCE.jpg" alt="Teaser Image" width="80%" height="80%">
+    <figcaption>Fig. 5. PNCE Loss Calculation Process.</figcaption>
+</figure>
+
+>>>>>>> f9d85f76cd85ab607a78a486081f21646247d591
 ## 🚀 Environment Setup
 
 ### Clone this repository
