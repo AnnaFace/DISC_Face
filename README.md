@@ -23,17 +23,17 @@ DISC-FACE.</figcaption>
 </figure>
 
 <figure>
-    <img src="assets/DISC_Net.jpg" alt="Teaser Image">
+    <img src="assets/DISC_Net.png" alt="Teaser Image">
     <figcaption>Fig. 3. DISC-Net Network Architecture.</figcaption>
 </figure>
 
 <figure>
-    <img src="assets/ITCAM.jpg" alt="Teaser Image">
+    <img src="assets/ITCAM.png" alt="Teaser Image">
     <figcaption>Fig. 4. IT-CAM Network Architecture.</figcaption>
 </figure>
 
 <figure>
-    <img src="assets/PNCE.jpg" alt="Teaser Image" width="80%" height="80%">
+    <img src="assets/PNCE.png" alt="Teaser Image" width="80%" height="80%">
     <figcaption>Fig. 5. PNCE Loss Calculation Process.</figcaption>
 </figure>
 
