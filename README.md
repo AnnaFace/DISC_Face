@@ -17,7 +17,7 @@ conditions while preserving the identity and facial structure consistency of the
 ## OverView
 
 <figure>
-    <img src="assets/DISC_Face.jpg" alt="Teaser Image">
+    <img src="assets/DISC_Face.png" alt="Teaser Image">
     <figcaption>Fig. 2. Overview of Identity-Preserving and Structure-Consistent Text-Guided Face Editing via
 DISC-FACE.</figcaption>
 </figure>
