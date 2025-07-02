@@ -1,4 +1,4 @@
-# Identity Preservation and Facial Structure Consistency in Text-Guided Face Editing via Diffusion Models
+# Diffusion Model for Identity Preservation and Facial Structure Consistency in Text-Guided Face Editing
 
 ## Code is coming soon!
 
