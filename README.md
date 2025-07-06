@@ -34,7 +34,7 @@ guided face editing with the DISC-FACE model.
     <figcaption>Figure 4. Overview of the IT-CAM module.</figcaption>
 </figure>
 
-<figure>
+<figure style="text-align: center;">
     <img src="assets/PNCE.jpg" alt="Teaser Image" style="width: 60%; height: auto; display: block; margin: 0 auto;">
     <figcaption>Figure 5. PNCE Loss Calculation Process.</figcaption>
 </figure>
