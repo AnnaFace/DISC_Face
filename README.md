@@ -35,7 +35,7 @@ guided face editing with the DISC-FACE model.
 </figure>
 
 <figure>
-    <img src="assets/PNCE.jpg" alt="Teaser Image" width="80%" height="80%">
+    <img src="assets/PNCE.jpg" alt="Teaser Image" width="70%" height="70%">
     <figcaption>Figure 5. PNCE Loss Calculation Process.</figcaption>
 </figure>
 
