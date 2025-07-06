@@ -25,12 +25,12 @@ guided face editing with the DISC-FACE model.
 </figure>
 
 <figure>
-    <img src="assets/DISC_Net.jpg" alt="Teaser Image">
+    <img src="assets/DISC_Net.jpg" alt="Teaser Image" style="width: 70%; height: auto; display: block; margin: 0 auto;">
     <figcaption>Figure 3. Overview of the DISC-Net architecture.</figcaption>
 </figure>
 
 <figure>
-    <img src="assets/ITCAM.jpg" alt="Teaser Image">
+    <img src="assets/ITCAM.jpg" alt="Teaser Image" style="width: 90%; height: auto; display: block; margin: 0 auto;">
     <figcaption>Figure 4. Overview of the IT-CAM module.</figcaption>
 </figure>
 
